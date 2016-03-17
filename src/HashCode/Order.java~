@@ -3,8 +3,10 @@ package HashCode;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 
+/**
+ * Created by Leo PU on 2016/2/11.
+ */
 public class Order {
-
     private int Des_Row;
     private int Des_Col;
     private int Num_items;
