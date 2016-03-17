@@ -1,5 +1,8 @@
 package HashCode;
 
+/**
+ * Created by Leo PU on 2016/2/11.
+ */
 public class Drone {
 
     private int MaxPayload;
